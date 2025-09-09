@@ -8,8 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^5.10.9"
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^4.21.2",
+    "mongoose": "^5.13.23"
   },
   "author": "Harsh WebEarl",
   "license": "ISC"
